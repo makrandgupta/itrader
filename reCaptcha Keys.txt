@@ -1,0 +1,3 @@
+#domain	localhost
+public_key	6LeBhscSAAAAALV16tnWmw4SqALpc1CDODUvXwJ0
+private_key	6LeBhscSAAAAAO3Pdcxjh5gKlrB_YPBJ5QU2POCY
